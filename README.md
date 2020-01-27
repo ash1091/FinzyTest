@@ -4,6 +4,7 @@ TESTNG, Selenium JARS would bee downlaoded from the POM.XML itself once the proj
 
 
 FEW Challenges faced/words on the flow and how the design took place
+
  First challenge was to make sure that the no of suggestions weren't hardcoded and a dynamic xpath was written to identify them
  I had written a dynamic xpath to identtify the suggestions provided as a keyword in the google search (as the DOM of gooogle search is very dynamic). Next to accept more than 4 keywords a test driven fframework was written using an excem file which was made to read the data using @DataProvider annotation in TestNG
  Another challenge was to make the Excel file read containing the test datas
