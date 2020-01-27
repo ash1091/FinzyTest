@@ -1,6 +1,7 @@
 To execute the project please download the FINZYTEST project please find below the steps:
 Download the FINZYTEST project and import the same in Eclipse (this project will be downloaded as a MAVEN Project as it was created as is)
 TESTNG, Selenium JARS would bee downlaoded from the POM.XML itself once the project is downlaoded and POM.XML is saved.
+Download the Excel sheet containing the keywords used for Data driven testing and change the path in the code to your local path.
 
 
 FEW Challenges faced/words on the flow and how the design took place
